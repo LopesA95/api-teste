@@ -7,7 +7,6 @@ export const FormContainer = styled.div`
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  margin: 0 800px;
 
   label {
     margin: 10px 0 5px;
